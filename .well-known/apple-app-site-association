@@ -1,0 +1,24 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "prototype.appclip.de.wunderamt.pim"
+        ],
+        "components": [
+          {"/": "*"}
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "prototype.appclip.de.wunderamt.pim"
+    ]
+  },
+  "appclips": {
+    "apps": [
+      "prototype.appclip.de.wunderamt.pim.MyApp.Clip"
+    ]
+  }
+}
