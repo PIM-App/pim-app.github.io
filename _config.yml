@@ -5,7 +5,7 @@ url: https://riggraz.dev/no-style-please # root address of the site
 description: > # description of the site (multiple lines allowed)
   A (nearly) no-CSS, fast, minimalist Jekyll theme.
 
-include: [".well-known/"]
+include: [".well-known/apple-app-site-association"]
 
 permalink: /:slug.html
 
