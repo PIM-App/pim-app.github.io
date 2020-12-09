@@ -3,7 +3,7 @@
     "details": [
       {
         "appIDs": [
-          "prototype.appclip.de.wunderamt.pim"
+          "QTKD3698TM.de.wunderamt.pim"
         ],
         "components": [
           {"/": "*"}
@@ -13,12 +13,12 @@
   },
   "webcredentials": {
     "apps": [
-      "prototype.appclip.de.wunderamt.pim"
+      "QTKD3698TM.de.wunderamt.pim"
     ]
   },
   "appclips": {
     "apps": [
-      "prototype.appclip.de.wunderamt.pim.MyApp.Clip"
+      "QTKD3698TM.de.wunderamt.pim.clip"
     ]
   }
 }
